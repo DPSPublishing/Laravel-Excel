@@ -17,6 +17,10 @@
       "email": "patrick@maatwebsite.nl"
     }
   ],
+  "repositories": [{
+      "type": "composer",
+      "url": "https://dps-pub.gitlab.io/satis"
+  }],
   "require": {
     "php": ">=5.5",
     "phpoffice/phpexcel": "2.0.0",
